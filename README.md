@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi there, I'm Matteo Ercolino! 👋
 
-<!--
-**matthew-2000/matthew-2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate computer scientist with a strong interest in the mobile world and cutting-edge technologies. I'm currently pursuing a master's degree in Computer Science, specializing in Software Engineering and IT Management, at the University of Salerno.
 
-Here are some ideas to get you started:
+## Who I Am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 Graduated in Computer Science from the University of Salerno in 2021.
+- 📱 Mobile developer with expertise in native app development for Android (Java and Kotlin) and iOS (UIKit and SwiftUI).
+- 💻 Experience in hybrid app development using Flutter.
+- 🕶️ Interested in and experienced with Augmented Reality (AR) and Virtual Reality (VR) projects.
+- 🌐 Proficient in web development.
+- 🤖 Basic knowledge of Artificial Intelligence.
+
+## What You'll Find Here
+
+In this GitHub repository, I'll be sharing projects and source code related to my development experiences. You can expect to find:
+
+- 📱 Mobile development projects for Android and iOS.
+- 🚀 Experiments and projects related to AR and VR.
+- 💻 Source code for web applications.
+- 🤖 AI-related projects and scripts.
+
+## Get in Touch
+
+I'm always interested in connecting with fellow developers and collaborating on exciting projects. If you have questions or would like to collaborate, feel free to reach out to me:
+
+- 📧 Email: [matteo.ercolino01@gmail.com](mailto:matteo.ercolino01@gmail.com)
+- 💼 LinkedIn: [Matteo Ercolino](https://www.linkedin.com/in/matteo-ercolino-b40054211)
+
+Thanks for visiting my GitHub profile! I hope you can find interesting projects and useful resources here. If you have any suggestions or feedback, they will be greatly appreciated. 😊
+
