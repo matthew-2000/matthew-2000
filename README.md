@@ -4,7 +4,7 @@ I'm a passionate computer scientist with a strong interest in the mobile world a
 
 ## Who I Am
 
-- 👨‍🎓 Pursuing a master's degree in Computer Science, specializing in Software Engineering and IT Management, at the University of Salerno. Graduated in Computer Science from the University of Salerno in 2021.
+- 👨‍🎓 Pursuing a Master's Degree in Computer Science, specializing in Software Engineering and IT Management, at the University of Salerno. Bacherol's Degree in Computer Science at University of Salerno in 2021.
 - 📱 Mobile developer with expertise in native app development for Android (Java and Kotlin) and iOS (UIKit and SwiftUI). Experience in hybrid app development using Flutter.
 - 🕶️ Interested in and experienced with Augmented Reality (AR) and Virtual Reality (VR) projects.
 - 🤖 Knowledge of Artificial Intelligence.
