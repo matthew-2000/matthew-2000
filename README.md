@@ -27,3 +27,6 @@ I'm always interested in connecting with fellow developers and collaborating on 
 
 Thanks for visiting my GitHub profile! I hope you can find interesting projects and useful resources here. If you have any suggestions or feedback, they will be greatly appreciated. 😊
 
+📊 **GitHub Stats**  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthew-2000&show_icons=true&theme=github_dark&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-2000&layout=compact&theme=github_dark)
