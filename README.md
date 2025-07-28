@@ -37,8 +37,6 @@ I love collaborating with other developers, designers, and innovators. Got an id
 
 ---
 
-🌟 *“Technology should feel intuitive, immersive... and maybe a little bit like science fiction.”* 🐉✨
-
 ## 🧰 Tech Toolbox
 
 <!-- Mobile -->
@@ -84,3 +82,7 @@ I love collaborating with other developers, designers, and innovators. Got an id
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+🌟 *“Technology should feel intuitive, immersive... and maybe a little bit like science fiction.”* 🐉✨
