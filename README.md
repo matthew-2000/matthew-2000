@@ -1,88 +1,110 @@
-# 👋 Hey there, I'm Matteo Ercolino!
+<!--
+README — Matteo Ercolino
+Tip: pin your best repos on GitHub to make this page even stronger.
+-->
 
-I'm a curious mind and creative coder, always exploring the edge where technology meets imagination.
-I recently **graduated with a Master's Degree in Computer Science**, with a focus on **Software Engineering and IT Management**, from the University of Salerno. 🧠💻
+<h1 align="center">Matteo Ercolino</h1>
+<p align="center">
+  Software Engineer · Mobile (Android/iOS/Flutter) · XR (AR/VR) · AI/LLMs
+</p>
 
-## 🚀 About Me
-
-* 🎓 Master's Degree in Computer Science (2025), Bachelor's Degree (2021) — University of Salerno.
-* 📱 **Mobile developer** with solid experience in building native Android apps (Java/Kotlin), iOS apps (UIKit/SwiftUI), and hybrid solutions with Flutter.
-* 🌍 Passionate about the immersive tech space — working on projects involving **Augmented Reality (AR), Virtual Reality (VR), and the wider Extended Reality (XR)** spectrum.
-* 🤖 Exploring the power and possibilities of **Artificial Intelligence**, especially **Large Language Models** and their integration in mobile and XR applications.
-* 🎮 Driven by creativity, interactivity, and building things that feel like the future.
-
-## 🧪 What You’ll Find Here
-
-This GitHub is my digital lab — a place where ideas become prototypes, and experiments come to life. Expect to find:
-
-* 📱 Real-world mobile apps for Android and iOS.
-* 🕶️ Experimental XR (AR/VR) projects — interfaces that blur the line between real and virtual.
-* 🌐 Web applications and API-driven tools.
-* 🧠 AI integrations and explorations, from chatbots to LLM-based tools.
-* ⚡ Passion projects that mix code with creativity.
-
-## 🤝 Let’s Connect
-
-I love collaborating with other developers, designers, and innovators. Got an idea? Let’s build something awesome together!
-
-* 📧 Email: [matteo.ercolino01@gmail.com](mailto:matteo.ercolino01@gmail.com)
-* 💼 LinkedIn: [Matteo Ercolino](https://www.linkedin.com/in/matteo-ercolino-b40054211)
+<p align="center">
+  <a href="mailto:matteo.ercolino01@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/matteo-ercolino-b40054211">LinkedIn</a> ·
+  <a href="https://github.com/matthew-2000">GitHub</a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 👋 Hello!
+I build **mobile and immersive experiences** where software meets interaction: **native apps**, **XR prototypes**, and **AI-powered tools**.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthew-2000\&show_icons=true\&theme=github_dark\&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-2000\&layout=compact\&theme=github_dark)
-
----
-
-## 🧰 Tech Toolbox
-
-<!-- Mobile -->
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=apple&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=android&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
-
-<!-- Web / Backend -->
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-
-<!-- AI / Data -->
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-
-<!-- Extended Reality -->
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Meta](https://img.shields.io/badge/Meta-0064E0?style=for-the-badge&logo=meta&logoColor=white)
-![Meta Quest](https://img.shields.io/badge/Meta%20Quest-000000?style=for-the-badge&logo=oculus&logoColor=white)
-![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)
-![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
-
-<!-- IDE -->
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-
-<!-- DevOps / Tools -->
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- 🎓 M.Sc. in Computer Science — Software Engineering & IT Management (University of Salerno)
+- 🎓 PhD in Computer Science (ongoing) — *AI-powered Digital Twins for Sustainable Urban Transformation*
+- 📱 Mobile dev (Android / iOS / Flutter) with a product mindset
+- 🕶️ XR dev (Unity, ARKit/ARCore, Meta Quest) focused on usability + impact
+- 🤖 Exploring **LLMs in mobile/XR**: agents, tools, and conversational interfaces
 
 ---
 
-🌟 *“Technology should feel intuitive, immersive... and maybe a little bit like science fiction.”* 🐉✨
+## ⭐ Highlights (impact over hype)
+- **Founder & developer** of a cross-platform university app: **30k+ downloads** and **1k+ daily active users**
+- Built a **VR application** based on **REBT** for guided immersive training
+- Research collaboration in HCI/XR + a **peer-reviewed publication** (ACM)
+- Teaching experience: **Python** and **Python for Cybersecurity** (professional courses)
+
+---
+
+## 🧩 Featured work
+> A few projects that represent what I love building (apps, XR, AI, and research tooling).
+
+### 📱 CampUs Unisa — Android & iOS
+A student companion app for career management and university life.  
+**Stack:** Kotlin/Java, Swift (UIKit/SwiftUI), Firebase
+
+### 🕶️ VR CLASS (Meta Quest)
+Immersive VR experience inspired by Rational Emotive Behavior Therapy (REBT), designed to enhance metacognitive skills via guided interaction.  
+**Stack:** Unity, C#, Oculus/Meta SDK
+
+### 🧠 WakeApp
+AI support system aimed at mental wellbeing with emotion recognition on video/audio (award winner).  
+**Stack:** Python, Flask, Flutter, AI tooling
+
+### 🌍 InMediArSI (research web app)
+Responsive web app for geolocalization and exploration of artistic commissions in Southern Italy (XI–XIII century).  
+**Stack:** Node.js/Express, DB, maps + UX-driven interface design
+
+---
+
+## 📚 Research & Publications
+- **Designing Virtual Interactive Objects to Enhance Visitors’ Experience in Cultural Exhibits**  
+  *ACM CHIGREECE ’23* — Cantone A.A., Ercolino M., Romano M., Vitiello G.
+
+If you’re working on **XR interaction**, **conversational agents**, **HCI**, or **digital twins**, I’m happy to collaborate.
+
+---
+
+## 🧰 Tech toolbox
+**Mobile:** Kotlin, Java, Swift, SwiftUI, UIKit, Flutter  
+**XR:** Unity (C#), Meta Quest, ARKit, ARCore  
+**Web/Backend:** Node.js, Express, Flask, REST APIs  
+**AI/Data:** Python, LLM integrations, basic data tooling  
+**Tools:** Git/GitHub, Firebase, Docker, Figma, CI/CD
+
+<details>
+  <summary><b>Badges</b></summary>
+
+  ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=matthew-2000&show_icons=true&theme=github_dark&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthew-2000&layout=compact&theme=github_dark" height="160" />
+</p>
+
+---
+
+## 🤝 Let’s build
+If you want to collaborate on:
+- Mobile apps with strong UX
+- XR prototypes and interaction design
+- LLM-powered tools inside apps (mobile/XR)
+- Research-driven prototypes and experiments
+
+📩 Reach me: **matteo.ercolino01@gmail.com**
+
+---
+
+<p align="center">
+  <i>“Technology should feel intuitive, immersive… and maybe a little bit like science fiction.”</i>
+</p>
