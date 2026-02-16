@@ -23,36 +23,14 @@ I build **mobile and immersive experiences** where software meets interaction: *
 - 🎓 PhD in Computer Science (ongoing) — *AI-powered Digital Twins for Sustainable Urban Transformation*
 - 📱 Mobile dev (Android / iOS / Flutter) with a product mindset
 - 🕶️ XR dev (Unity, ARKit/ARCore, Meta Quest) focused on usability + impact
-- 🤖 Exploring **LLMs in mobile/XR**: agents, tools, and conversational interfaces
 
 ---
 
-## ⭐ Highlights (impact over hype)
+## ⭐ Highlights
 - **Founder & developer** of a cross-platform university app: **30k+ downloads** and **1k+ daily active users**
 - Built a **VR application** based on **REBT** for guided immersive training
 - Research collaboration in HCI/XR + a **peer-reviewed publication** (ACM)
 - Teaching experience: **Python** and **Python for Cybersecurity** (professional courses)
-
----
-
-## 🧩 Featured work
-> A few projects that represent what I love building (apps, XR, AI, and research tooling).
-
-### 📱 CampUs Unisa — Android & iOS
-A student companion app for career management and university life.  
-**Stack:** Kotlin/Java, Swift (UIKit/SwiftUI), Firebase
-
-### 🕶️ VR CLASS (Meta Quest)
-Immersive VR experience inspired by Rational Emotive Behavior Therapy (REBT), designed to enhance metacognitive skills via guided interaction.  
-**Stack:** Unity, C#, Oculus/Meta SDK
-
-### 🧠 WakeApp
-AI support system aimed at mental wellbeing with emotion recognition on video/audio (award winner).  
-**Stack:** Python, Flask, Flutter, AI tooling
-
-### 🌍 InMediArSI (research web app)
-Responsive web app for geolocalization and exploration of artistic commissions in Southern Italy (XI–XIII century).  
-**Stack:** Node.js/Express, DB, maps + UX-driven interface design
 
 ---
 
