@@ -1,44 +1,73 @@
 <h1 align="center">Matteo Ercolino</h1>
+
 <p align="center">
-  PhD Student in Computer Science · Human–AI Interaction · Digital Twins
+  PhD Student in Computer Science · Human–AI Interaction · Urban Digital Twins
+</p>
+
+<p align="center">
+  building things where <b>AI meets people, places and interfaces</b>
 </p>
 
 ---
 
-## About
+## 👋 About me
 
-I build and study intelligent interactive systems that augment human capability.
+I’m a Computer Science PhD student at the **University of Salerno**.
 
-My work sits at the intersection of:
-- Human–AI interaction  
-- Immersive environments (XR)  
-- Adaptive interfaces  
-- AI-powered Digital Twins  
+I build intelligent systems that people can actually **talk to, explore and use**.
 
-Currently researching:
-> AI-powered Digital Twins for Sustainable Urban Transformation
+Right now, I’m mostly obsessed with:
+
+`AI-powered Digital Twins` · `GeoAI` · `LLMs & Agents` · `XR` · `Human–AI Interaction`
+
+My PhD revolves around one main idea:
+
+> **What if Digital Twins were something you could talk to?**
+
+Not just maps.  
+Not just dashboards.  
+Not just another chatbot glued on top.
+
+Something smarter.
 
 ---
 
-## Current Focus
+## 🧪 Currently experimenting with
 
-- Conversational agents in XR  
-- LLM integration in immersive systems  
-- Evaluation of intelligent interactive environments  
+```text
+cities + AI
+maps + language
+LLMs + tools
+agents + humans
+XR + adaptive interaction
+```
+
+I like turning research questions into **real prototypes**, testing them with people, breaking them, measuring what happens, and building the next version.
 
 ---
 
-## 🤝 Collaboration
+## 🛰️ Current mission
 
-I’m interested in collaborations involving:
-- XR + AI interaction research  
-- Human-centered intelligent systems  
-- Research-driven prototypes with measurable impact  
+**AI-powered Urban Digital Twins for Sustainable Urban Transformation**
 
-📩 matteo.ercolino01@gmail.com  
+Basically:
+
+```text
+ask → understand → explore → simulate → decide
+```
+
+---
+
+## 🤝 Let’s build something weird
+
+I’m always interested in research around:
+
+**AI × HCI · GeoAI · Digital Twins · XR · Intelligent Interfaces**
+
+📩 **mercolino@unisa.it**
 
 ---
 
 <p align="center">
-  <i>Technology should not only function — it should meaningfully extend human capability.</i>
+  <i>less “AI-powered everything”, more actually useful intelligent systems.</i>
 </p>
